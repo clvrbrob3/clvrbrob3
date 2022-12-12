@@ -3,6 +3,6 @@
 <p align="center">
   creating works so amateur (and stupid) you've never seen them before
   
-  welcome to my github page
+  <li>welcome to my github page</li>
 </p>
 
